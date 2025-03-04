@@ -1,0 +1,19 @@
+ Profile Picture – Upload or change the profile photo.
+🔹 Full Name – Edit the user's full name.
+🔹 Username – Change the username (if allowed).
+🔹 Email – Update the email with verification.
+🔹 Password – Change the password.
+🔹 Bio – Add a short personal description or cooking interests.
+🔹 Saved Recipes – View favorite or liked recipes.
+🔹 Privacy Settings – Control who can see the user's recipes.
+🔹 Social Links – Add links to Instagram, YouTube, etc.
+
+General Settings
+⚙️ Notifications – Enable/disable notifications for interactions.
+⚙️ Language – Change the website's language.
+⚙️ Measurement Units – Choose between metric (grams/ml) or imperial (oz/cups).
+⚙️ Dark/Light Mode – Toggle between light and dark themes.
+⚙️ Account Management – Delete or deactivate the account.
+⚙️ Content Preferences – Customize recipe recommendations.
+
+Let me know if you want to add anything specific! 😊
